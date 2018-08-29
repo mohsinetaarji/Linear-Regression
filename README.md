@@ -7,7 +7,7 @@ University of alabama at birmingham
 
 ## Predicting the Amount of Money Spent on Insured Customers  
 
-# For this assignment, we will be analyzing insured customers data for an insurance company:  
+For this assignment, we will be analyzing insured customers data for an insurance company:  
 
 
 The insured customers data is in a csv file. It has information sconsisting of:  
